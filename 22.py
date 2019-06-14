@@ -1,3 +1,3 @@
-n=int(input())
-a=input().split()
-print(max(a))
+p=int(input())
+s=input().split()
+print(max(s))
