@@ -1,0 +1,9 @@
+n=int(input())
+a=int(input())
+d=int(input())
+sum=a
+n-=1
+while(n>0):
+  sum=sum+a+n*d
+  n-=1
+print(sum)
