@@ -1,5 +1,5 @@
-a=int(input())
-x=list(map(int,input().split()))
-x.sort()
-med=x[int(a/2)]
+i=int(input())
+j=list(map(int,input().split()))
+j.sort()
+med=j[int(i/2)]
 print(med)
