@@ -1,2 +1,2 @@
-n=list(map(int,input().split()))
-print(min(n))
+sh=list(map(int,input().split()))
+print(min(sh))
